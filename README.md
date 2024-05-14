@@ -1,2 +1,2 @@
 # Artemis
-was a multi-guild bot made in discord.js v12
+This was my first big project made in v12 most of the commands are outdated. feel free to look through the source
